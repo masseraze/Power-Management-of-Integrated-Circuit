@@ -8,6 +8,8 @@ Voltage mode of buck converter with 0.18 $\mu$ m CMOS Process
 ## Simulate with simulink
 <div align=center><img width = "50%" src="https://user-images.githubusercontent.com/26044795/208710842-b5b3c830-b7c4-4f23-b84d-b1e7f61afc11.png"/></div>
 
+## compensator design
+
 
 ## Outcome
 
